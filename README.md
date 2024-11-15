@@ -45,4 +45,4 @@ In theory, as long as the mods do not conflict, this modpack supports most mods!
 ## Licence
 The licence is MIT. So you can freely modify this modpack and publish it.
 ## Issue
-If you find a Issue, please tell me at the github issue page, I will fix it.
+If you find a Issue, please tell me at [github issue page](https://github.com/qiubobo114514/Better-Vanilla/issues), I will fix it.
